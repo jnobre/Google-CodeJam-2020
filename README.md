@@ -10,7 +10,7 @@ The following is the list of the problems solved. Each problem identifier is spe
 
 * ✓ [A. Vestigium][qual1] (`vestigium`)
 * ✓ [B. Nesting Depth][qual2] (`nesting-depth`)
-* ✗ [C. Parenting Partnering Returns][qual3] (`parenting-partnering-returns`)
+* ✓ [C. Parenting Partnering Returns][qual3] (`parenting-partnering-returns`)
 * ✗ [D. ESAb ATAd][qual4] (`esab-atad`)
 
 [1]: https://codingcompetitions.withgoogle.com/codejam
